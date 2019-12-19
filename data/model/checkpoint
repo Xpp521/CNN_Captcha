@@ -1,0 +1,2 @@
+model_checkpoint_path: "capcha.model-500"
+all_model_checkpoint_paths: "capcha.model-500"

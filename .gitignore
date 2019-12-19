@@ -7,3 +7,11 @@
 *.iml
 out
 gen
+0_Test.py
+0_train.py
+0_predict.py
+0_re_train.py
+data/captcha/*
+data/model/*
+!/data/captcha/7DCC.png
+!/data/model/checkpoint
