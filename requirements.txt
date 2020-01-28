@@ -3,5 +3,5 @@ requests==2.21.0
 numpy==1.15.4
 Pillow==6.2.0
 PyQt4==4.11.4
-tensorflow==1.15.0
+tensorflow==1.15.2
 captcha==0.3
